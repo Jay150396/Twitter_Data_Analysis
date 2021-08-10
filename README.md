@@ -15,5 +15,6 @@ This is a template, to be filled out by each group and placed in their git repo 
 
 1. Analyse the real time streaming tweets of famous personality (Politicians or actors).
 2. Retrieving the trending hashtags of a famous personality.
-
+3. 
+4. Fetching the user details who retweeted with the name "ELON MUSK"
 
