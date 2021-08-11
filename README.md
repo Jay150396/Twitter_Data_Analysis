@@ -6,15 +6,19 @@ This is a template, to be filled out by each group and placed in their git repo 
 # Technology Used
 1. Apache Spark
 2. Spark SQL
-3. YARN
-4. HDFS and/or S3
-5. Scala 2.12.10
-6. Git + GitHub
+3. Spark Web UI
+4. Python
+5. Git + GitHub
 
 # Problem statement
 
 1. Analyse the real time streaming tweets of famous personality (Politicians or actors).
 2. Retrieving the trending hashtags of a famous personality.
-3. 
+3. To fetch the location of a person who has retweeted on particular hashtag.
 4. Fetching the user details who retweeted with the name "ELON MUSK"
+
+# API and Required Modules
+
+- Twitter API - for Building Apps and analyzing on twitter streaming & historical data
+- Tweepy - is an open source Python package that gives you a very convenient way to access the Twitter API with Python.
 
