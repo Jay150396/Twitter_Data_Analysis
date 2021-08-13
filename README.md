@@ -12,10 +12,11 @@ This is a template, to be filled out by each group and placed in their git repo 
 
 # Problem statement
 
-1. Analyse the real time streaming tweets of famous personality (Politicians or actors).
-2. Retrieving the trending hashtags of a famous personality.
-3. To fetch the location of a person who has retweeted on particular hashtag.
-4. Fetching the user details who retweeted with the name "ELON MUSK"
+1. Historical Data Analysis on "ELON MUSK" from 30-01-2015 to 14-07-2020
+2. Analyse the real time streaming tweets of famous personality (Politicians or actors).
+3. Retrieving the trending hashtags of a famous personality.
+4. To fetch the location of a person who has retweeted on particular hashtag.
+5. Fetching the user details who retweeted with the name "ELON MUSK"
 
 # API and Required Modules
 
